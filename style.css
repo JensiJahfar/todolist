@@ -1,0 +1,59 @@
+body{
+    background-color: goldenrod;
+    /* text-align: center; */
+}
+#form{
+    /* border: 2px solid black; */
+    width: 400px;
+    height: 200px;
+    margin-left: 39%;
+    margin-top: 10%;
+}
+#heading1{
+    padding-left: 60px;
+}
+#email,
+#pwd
+{
+    margin-top: 5px;
+    width: 250px;
+    height: 19px;
+}
+#formlabel{
+    font-size: 20px;
+    text-align: justify;
+}
+#labelclass{
+    text-align: justify;
+}
+#button1{
+    margin-top: 30px;
+    width:256px ;
+    height: 25px;
+    border-style: hidden;
+    background-color: seagreen;
+    border-color: seagreen;
+    border-radius: 2px;
+    
+}
+#button1:hover{
+    background-color:whitesmoke;
+    border-color:sandybrown ;
+}
+#button2{
+    text-decoration: none;
+    color: green;
+}
+#button2:hover{
+    color: white;
+}
+#bg-base{
+    background-color: sandybrown;
+}
+#button3{
+    text-decoration: none;
+    color: green;
+}
+#button3:hover{
+    color: white;
+}
